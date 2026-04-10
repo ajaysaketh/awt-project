@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "69d3a428490584ff63238696"
+  },
+  "name": "S Ajay Saketh",
+  "subject": "Mathematics",
+  "email": "sanka.saketh127240@marwadiuniversity.ac.in",
+  "phone": "08688032554",
+  "experience": "10 years",
+  "password": "teacher123",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:40.998Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:40.998Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a428490584ff63238697"
+  },
+  "name": "Mr. Suresh Nair",
+  "subject": "English",
+  "email": "suresh@school.com",
+  "phone": "9876543003",
+  "experience": "10 years",
+  "password": "teacher123",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:40.999Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:40.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a428490584ff63238698"
+  },
+  "name": "Mrs. Priya Sharma",
+  "subject": "Information Tech",
+  "email": "priyasharma@school.com",
+  "phone": "9876543004",
+  "experience": "3 years",
+  "password": "teacher123",
+  "status": "On Leave",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:40.999Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:40.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a428490584ff63238699"
+  },
+  "name": "Ms. Anita Verma",
+  "subject": "Science",
+  "email": "anita@school.com",
+  "phone": "9876543002",
+  "experience": "5 years",
+  "password": "teacher123",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:40.999Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:40.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a428490584ff6323869a"
+  },
+  "name": "Mr. Rajesh Kumar",
+  "subject": "Mathematics",
+  "email": "rajesh@school.com",
+  "phone": "9876543001",
+  "experience": "8 years",
+  "password": "teacher123",
+  "status": "Active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.000Z"
+  }
+}]

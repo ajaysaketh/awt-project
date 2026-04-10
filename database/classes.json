@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "69d3a429490584ff6323869b"
+  },
+  "name": "EV1",
+  "subject": "Mathematics",
+  "room": "MB101",
+  "time": "9:00 AM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.024Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff6323869c"
+  },
+  "name": "EV2",
+  "subject": "Science",
+  "room": "MA102",
+  "time": "10:00 AM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff6323869d"
+  },
+  "name": "EV3",
+  "subject": "English",
+  "room": "MA601",
+  "time": "11:00 AM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff6323869e"
+  },
+  "name": "EV4",
+  "subject": "Information Tech",
+  "room": "MA302",
+  "time": "12:00 PM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff6323869f"
+  },
+  "name": "EV5",
+  "subject": "Mathematics",
+  "room": "MB401",
+  "time": "1:00 PM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a0"
+  },
+  "name": "EV6",
+  "subject": "Science",
+  "room": "MB402",
+  "time": "2:00 PM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a1"
+  },
+  "name": "EV7",
+  "subject": "English",
+  "room": "MB403",
+  "time": "3:00 PM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a2"
+  },
+  "name": "EV8",
+  "subject": "Computer Science",
+  "room": "MB404",
+  "time": "4:00 PM",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.025Z"
+  }
+}]

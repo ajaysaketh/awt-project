@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "69d3e3b00d3a3d0007cab77b"
+  },
+  "title": "Attendance Marked",
+  "message": "Attendance for 10A marked successfully",
+  "type": "success",
+  "is_read": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T16:47:44.755Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T16:47:44.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3e3b00d3a3d0007cab77c"
+  },
+  "title": "Low Attendance Alert",
+  "message": "Dev Sharma attendance dropped below 75%",
+  "type": "warning",
+  "is_read": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T16:47:44.755Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T16:47:44.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3e3b00d3a3d0007cab77d"
+  },
+  "title": "New Student Added",
+  "message": "Anjali Nair has been added to 12A",
+  "type": "info",
+  "is_read": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T16:47:44.755Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T16:47:44.755Z"
+  }
+}]

@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a3"
+  },
+  "name": "Santosh",
+  "roll_no": "92400120167",
+  "class_name": "EV1",
+  "email": "santosh@school.com",
+  "phone": "8688032555",
+  "password": "student123",
+  "attendance": 60,
+  "status": "At Risk",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a4"
+  },
+  "name": "Ravi",
+  "roll_no": "92400120168",
+  "class_name": "EV1",
+  "email": "ravi@school.com",
+  "phone": "8688032556",
+  "password": "student123",
+  "attendance": 80,
+  "status": "Good",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a5"
+  },
+  "name": "Charan",
+  "roll_no": "92400120169",
+  "class_name": "EV2",
+  "email": "charan@school.com",
+  "phone": "8688032557",
+  "password": "student123",
+  "attendance": 75,
+  "status": "Average",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a6"
+  },
+  "name": "Priya",
+  "roll_no": "92400120170",
+  "class_name": "EV3",
+  "email": "priya@school.com",
+  "phone": "8688032558",
+  "password": "student123",
+  "attendance": 68,
+  "status": "At Risk",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a7"
+  },
+  "name": "Arun",
+  "roll_no": "92400120171",
+  "class_name": "EV4",
+  "email": "arun@school.com",
+  "phone": "8688032559",
+  "password": "student123",
+  "attendance": 55,
+  "status": "At Risk",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a8"
+  },
+  "name": "Meena",
+  "roll_no": "92400120172",
+  "class_name": "EV5",
+  "email": "meena@school.com",
+  "phone": "8688032560",
+  "password": "student123",
+  "attendance": 72,
+  "status": "Average",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386a9"
+  },
+  "name": "Kavya",
+  "roll_no": "92400120173",
+  "class_name": "EV6",
+  "email": "kavya@school.com",
+  "phone": "8688032561",
+  "password": "student123",
+  "attendance": 91,
+  "status": "Good",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d3a429490584ff632386aa"
+  },
+  "name": "Suresh",
+  "roll_no": "92400120174",
+  "class_name": "EV7",
+  "email": "suresh@school.com",
+  "phone": "8688032562",
+  "password": "student123",
+  "attendance": 74,
+  "status": "Average",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-06T12:16:41.035Z"
+  }
+}]
